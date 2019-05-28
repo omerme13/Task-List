@@ -164,3 +164,13 @@ li:hover,
     background-color: #f0f7fc;
     text-decoration: line-through;
 }
+
+/* ---------------------------------------- */
+/* RESPONSIVENESS */
+/* ---------------------------------------- */
+
+@media(max-width: 500px) {
+    html {
+        font-size: 90%;
+    }
+}
