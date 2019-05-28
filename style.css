@@ -173,4 +173,11 @@ li:hover,
     html {
         font-size: 90%;
     }
+
+    .btn:link,
+    .btn:visited {
+        display: block;
+        padding: 5px 15px;
+        margin-left: auto;
+    }
 }
